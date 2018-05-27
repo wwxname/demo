@@ -1,6 +1,7 @@
 public static void main(String args[]){
 
-nishi  habi 
+nishi  habi
+nijiushi shabi
 wobushi shabi
 
 }
