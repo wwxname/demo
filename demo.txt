@@ -1,5 +1,9 @@
 public static void main(String args[]){
 
+nishi  habi
+nijiushi shabisdsadsadsd
+wobushi shabi
+
 nishi  hasadsadbi
 nijiushi shsdaasabi
 wobushi dasd
